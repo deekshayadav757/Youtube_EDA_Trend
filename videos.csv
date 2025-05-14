@@ -1,0 +1,6 @@
+video_id,title,channel_id,category_id,publish_date
+v1,Song A,c1,1,2023-11-01
+v2,Vlog B,c2,2,2023-11-02
+v3,Tutorial C,c3,3,2023-11-03
+v4,Song D,c1,1,2023-11-04
+v5,Movie Review,c4,4,2023-11-05
